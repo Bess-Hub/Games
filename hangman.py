@@ -1,4 +1,4 @@
-#This code I built with the assistance of a tutorial, I was learning by interpreting the steps.
+#This code I built with the assistance of a tutorial, I was learning by interpreting the steps. I did not copy and paste the code because I wanted to get used to writting it myself.
 
 #Import random module to randomize the choice of word to be guessed
 import random
@@ -16,7 +16,7 @@ word_list = [
     'metropolis'
 ]
 
-#Code the random choice of word from the the word_list
+#Define and code the random choice of word from the the word_list
 def get_word():
     word = random.choice(word_list)
     return word.upper()
