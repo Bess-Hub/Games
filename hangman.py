@@ -1,3 +1,5 @@
+#This code I built with the assistance of a tutorial, I was learning by interpreting the steps.
+
 #Import random module to randomize the choice of word to be guessed
 import random
 
